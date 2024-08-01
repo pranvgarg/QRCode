@@ -1,8 +1,6 @@
 # QRCode
 # Caffeine Before Chaos QR Code Event Invitation
 
-![Caffeine Before Chaos](CaffieneDay.png)
-
 ## Project Description
 
 This project was inspired by an event in our town. We wanted to create QR codes for the attendees to scan upon arrival, allowing us to track attendance and ensure each QR code can only be used once. The system generates QR codes from a provided list of links and maintains a database of attendees who have scanned their codes.
